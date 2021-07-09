@@ -1,5 +1,5 @@
 {
-    "name": "pxt-mcp23017v2",
+    "name": "pxt-mcp23017",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
